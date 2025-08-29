@@ -1,10 +1,12 @@
 - Overview
 
-This project analyzes children’s average daily screen time across different ages, genders, devices, and locations, and highlights the health impacts caused by screen overuse in india
+This project analyzes children’s average daily screen time across different ages, genders, devices, and locations, and highlights the health impacts caused by screen overuse in India.
 
 -  Tools & Technologies
 
 SQL & Excel → Data extraction, transformation, and loading (ETL)
+
+SSIS (SQL Server Integration Services) → ETL process (extract, transform, load)
 
 SSAS → OLAP cubes & aggregate measures
 
